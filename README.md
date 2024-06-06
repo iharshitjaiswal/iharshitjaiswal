@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iharshitjaiswal
-- 👀 I’m interested in web development,block chain,ML,AI,etc.
+- 👋 Hi, I’m Harshit Jaiswal
+- 👀 I’m interested in web development,desiging,AI,etc.
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on projects
 - To reach me .... my mail is iharshitjaiswal@gmail.com 
